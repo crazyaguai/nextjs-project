@@ -17,6 +17,7 @@
   "devDependencies": {
     "@types/node": "^12.12.17",
     "@types/react": "^16.9.16",
+    "@zeit/next-css": "^1.0.1",
     "@zeit/next-sass": "^1.0.1",
     "cross-env": "^6.0.3",
     "express": "^4.17.1",

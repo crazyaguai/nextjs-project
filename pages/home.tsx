@@ -17,7 +17,7 @@ const Home = () => (
       <Link href="/test">
         <a>go test page</a>
       </Link>
-      <Button onClick={()=>{Router.push('/test')}}>go test page</Button>
+      <Button type="primary" onClick={()=>{Router.push('/test')}}>go test page</Button>
     </div>
   </div>
 )
