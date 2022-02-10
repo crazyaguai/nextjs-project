@@ -21,7 +21,7 @@
     "@zeit/next-sass": "^1.0.1",
     "cross-env": "^6.0.3",
     "express": "^4.17.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "typescript": "^3.7.3"
   }
 }
